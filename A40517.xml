@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some particular motives of the conversion of Peter Frotte, heretofore canon-regular of the Royal Abby of St. Genevieve at Paris. Prior of the priory and parish of Souilly in the Diocess of Meaux In a letter directed to Mr. James Benign Bousset, bishop of Meaux; formerly tutor of Monseigneur Le Dauphin. Englished by the author. And dedicated to the Right Honourable Sir Thomas Stampe, Lord Mayor of the City of London. And the Honourable Court of Aldermen.</title>
+            <author>Frotté, Pierre.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40517</idno>
+            <idno type="STC">Wing F2247B</idno>
+            <idno type="STC">ESTC R214641</idno>
+            <idno type="EEBO-CITATION">99826748</idno>
+            <idno type="PROQUEST">99826748</idno>
+            <idno type="VID">31154</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31154)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1829:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some particular motives of the conversion of Peter Frotte, heretofore canon-regular of the Royal Abby of St. Genevieve at Paris. Prior of the priory and parish of Souilly in the Diocess of Meaux In a letter directed to Mr. James Benign Bousset, bishop of Meaux; formerly tutor of Monseigneur Le Dauphin. Englished by the author. And dedicated to the Right Honourable Sir Thomas Stampe, Lord Mayor of the City of London. And the Honourable Court of Aldermen.</title>
+                  <author>Frotté, Pierre.</author>
+                  <author>Stamp, Thomas, Sir, 1628-1711.</author>
+                  <author>Bossuet, Jacques Bénigne, 1627-1704.</author>
+               </titleStmt>
+               <extent>[4], 28, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin, near the Oxford-Arms Inn, Warwick-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCI. [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>French original not traced.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Conversion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31154:1"/>
+            <pb facs="tcp:31154:1"/>
+            <p>Some Particular MOTIVES OF THE CONVERSION OF PETER FROTTE, HERETOFORE CANON-REGULAR of the Royal Abby of St. <hi>Genevieve</hi> at <hi>Paris.</hi>
+            </p>
+            <p>PRIOR of the Priory and Pariſh of <hi>Souilly</hi> in the Dioceſs of <hi>Meaux.</hi>
+            </p>
+            <p>
+               <hi>In a Letter directed to Mr.</hi> James Benign Boſſuet, <hi>Biſhop of</hi> Meaux; <hi>formerly Tutor of</hi> Monſeigneur Le Dauphin.</p>
+            <p>
+               <hi>Engliſhed by the Author.</hi>
+            </p>
+            <p>
+               <hi>And Dedicated to the Right Honourable Sir</hi> Thomas Stampe, <hi>Lord Mayor of the City of</hi> London. <hi>And the Honourable Court of Aldermen.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arr</hi> Inn, <hi>Warwick-Lane.</hi> M DC XCI.</p>
+            <pb facs="tcp:31154:2"/>
+            <pb facs="tcp:31154:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31154:3"/>
+            <pb facs="tcp:31154:3"/>
+            <head>
+               <hi>TO THE RIGHT HONOURABLE Sir</hi> THOMAS STAMPE, <hi>LORD MAYOR of the City of LONDON. And the HONOURABLE COURT of ALDERMEN.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>NO body, I hope, will accuſe me of temerity, if I take the boldneſs to Dedicate to Your Lordſhip this Diſcourſe; though hereby I have the unhappineſs, to interrupt with this little Addreſs of mine, Your more important Affairs. For no wonder if a ſtranger comes to implore, nay to impor<g ref="char:EOLhyphen"/>tune Protection; even his very condition gives him title to it; ſince every Stranger in a Foreign Country may be look'd upon as an Orphan, without particular Kindred, Friend, or Acquaintance, it may be allow'd him to have Recourſe to the Firſt Magiſtrate of the City wherein he lives, as to a Publick Patron, Friend, and Father. As for my part; <hi>My Lord,</hi> 'tis true, I am not ſo abandoned a Stranger, but that I have found ſome Friendſhip and Cha<g ref="char:EOLhyphen"/>rity, not only among my Countrey-men, who are here meer Strangers as my ſelf, but alſo among the <hi>Engliſh-men.</hi>
+               <pb facs="tcp:31154:4"/> Nevertheleſs were I not in need of any Pro<g ref="char:EOLhyphen"/>tection or Favour, I ſhould be glad of an occaſion to give my ſelf the honour of approaching to Your Lordſhip, to manifeſt in deſcribing the Hypocritical and Cruel character of an Enemy of Your Religion and Liberty, That I deſire heartily the happineſs of this magnificent City, of Your Lord<g ref="char:EOLhyphen"/>ſhip, and of Your Honourable Brethren, who ſo happily ſteer it at this time, to its preſent meaſure of Peace and Or<g ref="char:EOLhyphen"/>der; to congratulate it for its Loyalty and Love to ſo Good, ſo Generous, and ſo Illuſtrious a King; to Rejoice and Bleſs you for Your great Care and Unwearied pains, in Rooting out the Seminaries of Sedition, in ſupreſſing Irreligion and Profaneneſs, and doing what lies in men, for the keeping of the Unity and Concord; in which worthy deeds that you may ever proceed, and be ſucceeded, by the Bleſſing and Con<g ref="char:EOLhyphen"/>courſe of Divine Providence, is, and ſhall be the daily Prayer of Your</p>
+            <closer>
+               <salute>(RIGHT HONOURABLE)</salute>
+               <signed>Moſt Humble and Obedient Servant, PETER FROTTE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:31154:4"/>
+            <head>Some Particular Motives of the CONVERSION OF <hi>PETER FROTTE,</hi> &amp;c.</head>
+            <p>
+               <hi>In a Letter directed to Mr.</hi> James Benign Boſſuet, <hi>Biſhop of</hi> Meaux; <hi>formerly Tutor of</hi> Monſeigneur Le Dauphin.</p>
+            <p>Monſieur,</p>
+            <p>
+               <seg rend="decorInit">I</seg> Remained too long in your Church; I have been too long a Witneſs of her Violences and Cruelties againſt thoſe whom ſhe injuſtly calls Here<g ref="char:EOLhyphen"/>ticks, not to underſtand into what degree of Fury ſhe would have run againſt me, had I been ſo unhappy, after my renouncing her Communion, as to fall again into her power. 'Tis, Sir, what obliged me to abandon all what I poſſeſs'd in <hi>France,</hi> That I might come into theſe Countries, where Conſcience being free, I could give glory to God, and worſhip Him according to the rules of the Holy Goſpel: I am not ignorant
+<pb n="2" facs="tcp:31154:5"/> alſo, what calumnies this ſame Church of yours is wont to put upon thoſe that ſeparate themſelves from her, and eſpecially when they are of my Cha<g ref="char:EOLhyphen"/>racter: I know ſhe forgets nothing that may cry them down, and blemiſh their Reputation. This reaſon engaged me alſo to make publick the true motives of my Converſion, to direct them to you, and to write you this Letter; that all peo<g ref="char:EOLhyphen"/>ple might know what your ſimple Prieſts and Monks are capable of, when they ſee a great Pre<g ref="char:EOLhyphen"/>late, who honour'd me ſo long with his eſteem and protection, become on a ſudden one of my greateſt Enemies, and run into Invectives with an Anger unbecoming his Character, as ſoon as he apprehended I deſigned to forſake his Church.</p>
+            <p>I do not deny, Sir, and I am obliged to acknow<g ref="char:EOLhyphen"/>ledge, you gave me a thouſand marks of your Bounty: This to your Recommendation I owe, that I was very welcome at Monſieur Le <hi>Pelletier,</hi> Comptroler of the King's Exchequer; and that Monſieur de <hi>Menars,</hi> Intendant of <hi>Paris,</hi> favour'd me with his particular Protection. Moreover, though my kindred might have the Honour to be known, and a little conſider'd by Monſieur the Chancellor; your Favour and Authority was not needleſs to me in reducing to Reaſon the Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Souilly;</hi> which I had not proſecuted in Law, but in Obedience to your Order.</p>
+            <pb n="3" facs="tcp:31154:5"/>
+            <p> You cauſed me to Preach in your Cathedral Church, and in your Preſence, on the moſt So<g ref="char:EOLhyphen"/>lemn day of the Year; and my Sermon was not only approved, but alſo applauded by you. I was welcome not only in your Houſe, but alſo at your Table and in your Coach: All things were pleaſant to me at your Court, and your kind<g ref="char:EOLhyphen"/>neſs towards me cauſed great Jealouſie of me in many other good People.</p>
+            <p>'Tis moſt certain your favour and affection was ſo great to me, that you would never be<g ref="char:EOLhyphen"/>lieve what ſeveral People told you of me, viz. <hi>That I neglected the Celebrating of Maſs; That I Preached no more; That I was always in the Company of the Pro<g ref="char:EOLhyphen"/>teſtants; That I compelled them not to obey to your will; That I ſtayed for nothing but the Prince of</hi> Orange's <hi>coming into</hi> France <hi>to Reform my Church; And that at laſt I overthrew by my behaviour in this Countrey,</hi> all that your Zeal Endeavour'd to Eſtabliſh.</p>
+            <p>My Kindred, which feared for many Reaſons I would abandon your Church, informed you of all they knew about that buſineſs: My Brother <hi>De Lignieres,</hi> Collonel, who was long ſince in your Town with his Regiment, ſpoke to you of nothing elſe; if by Divine Providence you had not been prejudiced againſt all theſe reports, which yet were really grounded, as you may ſee now, this unnatural Brother, who hates me only becauſe I
+<pb n="4" facs="tcp:31154:6"/> reproach'd him with his Licentious ſort of Life, would have ſent to me many of his Soldiers to take me up, and would not have ſpared me more than he did the poor Reformed of <hi>Daulphiné,</hi> when he went thither to Preach ſo efficaciouſly, by an ex<g ref="char:EOLhyphen"/>traordinary Miſſion in Quality of Captain of Dragoons.</p>
+            <p>I muſt, Sir, Adore here God's Providence, who kept me in midſt of theſe Dangers; who not giving me yet all the neceſſary light, nor re<g ref="char:EOLhyphen"/>ſolution enough to break with you, gave me yet the confidence to remain among ſo many Enemies, who were long ſince angry with me: For many years ago, my Kindred, and Canons Regular of Saint <hi>Genevieve,</hi> being informed from all hands of the liberty I took to ſpeak in particular Converſa<g ref="char:EOLhyphen"/>tions, nay, to Preach alſo publickly againſt the abuſes of the Eccleſiaſtical power; of the Superſti<g ref="char:EOLhyphen"/>ous Worſhip; of the Phariſaical Hypocriſy of the Monks, and the Prieſts; of the dangerous Policy of the whole Clergy; deſigned often to declare me fool, and to treat me accordingly. How great Happineſs, Sir, to be believ'd fool by the World<g ref="char:EOLhyphen"/>ly People, ſince this folly (as Saint <hi>Paul</hi> calls it) is the true Wiſdom in the ſight of God!</p>
+            <p>This Intention (I ſay) ſo much worthy of your Religion, was not unknown to me; for ma<g ref="char:EOLhyphen"/>ny threatned me, and others warned me of this danger.</p>
+            <pb n="5" facs="tcp:31154:6"/>
+            <p> Notwithſtanding this, as I was not convinced of all the truth I looked for, and was yet intang<g ref="char:EOLhyphen"/>led in ſome Errors, I continued as one aſleep, in midſt of thoſe who contrived my Ruin, and upon the brink of a Precipice: But I was alſo under the Protection of God, who alone knew the day and the hour which he appointed for my Salvation; he ſhut your Eyes, and ſtopped up your Ears for my good; Inſomuch, that all the diſcourſes and reports of my Kinſmen, of our Canons of St. <hi>Ge<g ref="char:EOLhyphen"/>nevive,</hi> and of my Pariſhioners, by which they intended to Ruine me, hindered not you a Fort<g ref="char:EOLhyphen"/>night before my eſcape, to give a very good Teſtimony of my Manners and Behaviour, be<g ref="char:EOLhyphen"/>fore the moſt Illuſtrious Perſons; I mean, that the <hi>15th.</hi> of <hi>July</hi> laſt, you told in the Preſence of <hi>Monſieur Le Duke, the</hi> Montauſier, <hi>of</hi> Madame, <hi>the Dutcheſs of</hi> Uzeſs <hi>his Daughter, and of many other Per<g ref="char:EOLhyphen"/>ſons of the firſt quality, That I was a very Honeſt man, and my Life and Converſation was very good.</hi> This Maſter <hi>Sanlecque,</hi> Prior of <hi>Garnay,</hi> a very Honeſt man, who was preſent at this Meeting, related to me. Pray, Sir, be not Angry with him for that, for I never made him partaker of my deſign: You have ſaid the ſame to <hi>Monſieur de Menars,</hi> Intendant of <hi>Paris;</hi> he himſelf did me the favour to tell it me, and adviſed me not to go out of your Dioceſs, becauſe you were well affectionated to me. I
+<pb n="6" facs="tcp:31154:7"/> thank you, Sir, that knowing me (as you did) you did me Juſtice by your Teſtimonies, and that you added often many Praiſes, which I was not worthy of.</p>
+            <p>Nevertheleſs, I muſt confeſs, your favours were very dangerous to me: This good will towards me, of a Perſon of ſo great merit, deceived me, and impoſed upon my mind; and I do not know well whether the fear of ſhewing my ſelf Ingrateful, hath not leſſened the difficulties I had about your Religion, and whether it hath not cauſed me to defer for a while the rendering of my Duty to God.</p>
+            <p>But whilſt you defended me without, againſt men, God attack'd me happily within, and broke, by the ſtrength of his Grace, all the impedi<g ref="char:EOLhyphen"/>ments which I had ſet againſt my own Salvation.</p>
+            <p>He inſpired me efficaciouſly to abandon a Church in which my heart was never contented, in which my Conſcience was always grieved, ſometimes upon one point of Faith, ſometimes upon another, and ſometimes upon all contro<g ref="char:EOLhyphen"/>verted Articles.</p>
+            <p>But at laſt this lucky moment happened, in which God gave me light and reſolution enough to accompliſh the deſign I had long ſince, to re<g ref="char:EOLhyphen"/>nounce a Religion which appear'd to me to have many things borrow'd from the <hi>Jews</hi> and <hi>Heathens.</hi> I cauſed my goods to be tranſported into <hi>Paris,</hi>
+               <pb n="7" facs="tcp:31154:7"/> there to be ſold. This removal of my goods was obſerved by many People, and no body queſti<g ref="char:EOLhyphen"/>oned more my deſign: You your ſelf being con<g ref="char:EOLhyphen"/>vinced of it, endeavour'd to ruine the good opi<g ref="char:EOLhyphen"/>nion you had given of me by publick Teſtimonies.</p>
+            <p>Remember, Monſieur, the indignation you had conceived againſt me in that time, and your extra<g ref="char:EOLhyphen"/>ordinary change, which obliges me alſo to change, and to give an anſwer to your Malice and Fury, as it deſerves. How comes it to paſs, Monſieur, That the <hi>15<hi rend="sup">th.</hi>
+               </hi> of <hi>July</hi> you ſaid wonderful things in my praiſes, and before irreproachable and illu<g ref="char:EOLhyphen"/>ſtrious Witneſſes; and the Firſt day of the following Month, you cauſed to be reported <hi>in my Pariſh, at</hi> Claye, <hi>at</hi> Lagny, <hi>at</hi> Meaux, <hi>That I took pleaſure in no<g ref="char:EOLhyphen"/>thing but riding on Horſeback; That I was fitter for a Camp than for the Church; That I was a ſhame to my Kindred; and that of a long time I had not ſaid Maſs but careleſly; That I am a Prophane, and an Here<g ref="char:EOLhyphen"/>tick, a Rogue, and a Banditto.</hi>
+            </p>
+            <p>What ſtrange Palinody! Am I then Metomor<g ref="char:EOLhyphen"/>phized in a Fortnight? No Monſieur, I am no other man; and except the changing of a corrupted Reli<g ref="char:EOLhyphen"/>gion into another holy one, I am always the ſame; I can prove to you, that you need not recant what you have often ſaid in my Praiſe. For you well know I could have ſold my Living at a good rate, eſpecially it being in the good ſtate where<g ref="char:EOLhyphen"/>in
+<pb n="8" facs="tcp:31154:8"/> you were pleaſed to put it. Many People offer<g ref="char:EOLhyphen"/>ed me a great deal of Money for it, but I would not ſell the Miniſtry; the proof of it ſhall be evi<g ref="char:EOLhyphen"/>dent, for he to whom you procured my Living, ſhall not be diſturbed in his Poſſeſſion.</p>
+            <p>I was willing, Sir, to give you at my depar<g ref="char:EOLhyphen"/>ture, this laſt proof of my good Conſcience, and of my Honeſty: I do not repent; yet have I acted perhaps too ſcrupulouſly; for at leaſt ſhould not I be excuſable at my going out of <hi>Egypt,</hi> to take ſome<g ref="char:EOLhyphen"/>thing of ſpoil from God's Enemies and cruel Per<g ref="char:EOLhyphen"/>ſecutors of his <hi>Iſrael?</hi> Eſpecially conſidering they robbed me of all my goods, and often made an unworthy traffick of my Patrimony, of my Liberty, and of my Soul.</p>
+            <p>But if I am always the ſame in point of Honour, how much are you changed on the ſame point? from your being Sweet, Gentle, and Affable, you on a ſudden became Sowr, Angry, not to ſay Fu<g ref="char:EOLhyphen"/>rious; for you are not Contented to declare War againſt me, by many injuries and wrongs, but alſo you came to handy-blows; you drive out of my Houſe my Vicar, whom you your ſelf had approved; you cauſe my Houſe to be broken open, and plundered all the reſt of my goods which I had not yet removed; you endeavoured not on<g ref="char:EOLhyphen"/>ly to bereave me of my Reputation and my Goods, but alſo of my Liberty and my Life. You permit
+<pb n="9" facs="tcp:31154:8"/> Monſieur <hi>de Bellou</hi> my Brother in Law, to attack me, firſt by a Troop of <hi>Serjeants,</hi> and afterwards by a <hi>Provoſt</hi> Armed with your Epiſcopal Charity, and with your Apoſtolick Zeal.</p>
+            <p>But at laſt, ſince God hath been pleaſed to de<g ref="char:EOLhyphen"/>liver me out of your hands, and to guide me into thoſe Countreys your Violence cannot reach, ne<g ref="char:EOLhyphen"/>ver hope to have me in the clutches of your Ty<g ref="char:EOLhyphen"/>ranny again. Nevertheleſs, I deſire to acknow<g ref="char:EOLhyphen"/>ledge your Supream Power once more in my Life; and to the end I may render to you my laſt ho<g ref="char:EOLhyphen"/>mage, I reſolved to acquaint you with the reaſons of the change God hath been pleaſed to work in me; you ſhall ſee many motives of it in ano<g ref="char:EOLhyphen"/>ther <note n="*" place="margin">'Tis not Engliſhed.</note> Diſcourſe directed to you, after I have pronounced it publickly; but I re<g ref="char:EOLhyphen"/>ſerved ſome other to tell you them here privately.</p>
+            <p>You helped me very much, Sir, to my Con<g ref="char:EOLhyphen"/>verſion, with your demeanour: I can't diſſemble it, you (if I may ſo ſay) edified me by your Scandals. Your Expoſition of Catholick Faith, ſo famous in all the world, made me think you do not believe what you Teach, and you retain the truth in Injuſtice: This Book a great while ago imprinted in me a bad, but a true opinion of your Doctrine. I could not be a witneſs of the fits of your Anger againſt the Reformed of your Dio<g ref="char:EOLhyphen"/>ceſs, without pitying them, and conceiving ſome
+<pb n="10" facs="tcp:31154:9"/> Indignation againſt you. I could not compare the faſhion of your Miſſions with your Paſtoral Letter, Dated on <hi>24th.</hi> of <hi>March</hi> 1686 without being perſuaded (as many others have been) you had no ſincerity; for you boaſt in this Letter, <hi>That none of your new Catholicks have ever un<g ref="char:EOLhyphen"/>dergone any Violence, either in Perſon or in Goods,. . . . . .</hi>and that <hi>they came again to you qui<g ref="char:EOLhyphen"/>etly, and voluntarily;</hi> you appeal to their own teſti<g ref="char:EOLhyphen"/>mony for it. <hi>You know it very well</hi> (ſay you.)</p>
+            <p>O <hi>Monſieur!</hi> How dare you ſay ſo? Did I not ſee with my own Eyes the extream violence you exerciſed in Perſon againſt all this People, for (except a certain branded Woman of the <hi>Lizys</hi> Town) whom for Charities ſake I omit to name, and whom you called your Conqueſt, and carried as triumphantly in your own Coach, to draw o<g ref="char:EOLhyphen"/>thers with her as with a Bait; except (I ſay) this notoriouſly branded Woman, who perhaps abjured willingly her Religion; all the reſt were con<g ref="char:EOLhyphen"/>ſtrain'd to do it by the Soldiers whom you cauſed to paſs and repaſs through your Dioceſs in the time of your Miſſions, and by continual Threat<g ref="char:EOLhyphen"/>nings made to them, even in the Sermons you have pronounced at <hi>Claye</hi> before Monſieur <hi>L'Inten<g ref="char:EOLhyphen"/>dant,</hi> whom from the Pulpit you called your Se<g ref="char:EOLhyphen"/>cond in this Expedition. Was I not a Witneſs of the power and efficacy of your Preaching, of your
+<pb n="11" facs="tcp:31154:9"/> Art and Induſtry in honouring the Miniſtry, when they carried violently into <hi>your Epiſcopal Pa<g ref="char:EOLhyphen"/>lace all the Proteſtants of</hi> the Villages of <hi>Nanteuil, Quincy, Condé, &amp;c.?</hi> For 'tis true, in leſs than two Hours, you perſuaded them of all your Myſteries; but all this quick ſucceſs came of their being with<g ref="char:EOLhyphen"/>out any Miniſter to defend them in this Contro<g ref="char:EOLhyphen"/>verſy, from this great Epiſcopal Luſter, and Splendor which attended you, and dazled their Eyes; But more eſpecially from the fierce pre<g ref="char:EOLhyphen"/>ſence of ſome Officers of War, whom you never wanted, and who always helped you very much in your deſign, by ſprinkling upon all your Di<g ref="char:EOLhyphen"/>ſcourſes, a great deal of energy and ſtrength, which took them all up in a moment, and con<g ref="char:EOLhyphen"/>ſtrain'd them to embrace your Opinions. You pre<g ref="char:EOLhyphen"/>ſently gave them your Bleſſing, with a full power of Communicating, after the Roman faſhion; thus you bewitched them; but your Charm con<g ref="char:EOLhyphen"/>tinued but a little while. For every body knows, That in going out of your Palace, all your con<g ref="char:EOLhyphen"/>verted People abhorr'd your Violence; we heard them publickly Recant, what you conſtrain'd them to Sign in your Chamber: They, methinks, ſhew'd enough their Repentance; for a few Days after they met together near <hi>Nanteuil,</hi> to Pray to God, and to beg his Pardon, for the ſcandal they gave one to another, in ſurrendring themſelves to your
+<pb n="12" facs="tcp:31154:10"/> Violence. But this occaſion manifeſted alſo, you are not in the right to boaſt of your great Sweet<g ref="char:EOLhyphen"/>neſs and Kindneſs (as you do:) ſince you were tranſported with ſo violent Wrath, that you cauſed many of them to be Condemned to Death. 'Tis true, that calling your ſelf an Imitator of St. <hi>Auſtin,</hi> who was uſed to take the Criminals out of the hands of the Judges, or cauſed their Puniſhment to be diminiſhed; you procured to change the Sen<g ref="char:EOLhyphen"/>tence of Death, into that of the Gallies; but you came ſhort of the Charity of this Holy man; For he was not contented to ask the Magiſtrates for a ſimple moderation of Puniſhing in behalf of the Criminals, when he could obtain for them a free and full deliverance from it. You on the contra<g ref="char:EOLhyphen"/>ry, who over-ru'ld the Sentence (Monſieur <hi>L'Inten<g ref="char:EOLhyphen"/>dant,</hi> having an order to follow what you ſhould think fit) inſtead of cauſing thoſe Innocents to be wholly delivered from the inflicted Pains, you changed their Puniſhment into a more inſuppor<g ref="char:EOLhyphen"/>table one, the Condemnation to the Gallies being worſe than death it ſelf.</p>
+            <p>If this be your kindneſs, how muſt we call what you did at <hi>Claye?</hi> When in obedience to your order <hi>Benjamin Gode</hi> Chyrurgion, was commanded to ex<g ref="char:EOLhyphen"/>erciſe his profeſſion no more; when according to your Commands, the Widow call'd <hi>Teſtar,</hi> had her Eldeſt Son taken from her; and in like manner
+<pb n="13" facs="tcp:31154:10"/> was the woman called <hi>Boiſſeleau</hi> taken up for no other reaſon, but becauſe ſhe was very well verſed in her Catechiſm, and highly encouraged her compa<g ref="char:EOLhyphen"/>nions, not to comply with your bad Exhortations: When having cauſed the <hi>Cuiraſſiers,</hi> Commanded by Monſieur <hi>de la Chaiſe,</hi> the Nephew of Father <hi>de la Chaiſe,</hi> to come to <hi>Claye,</hi> you got together all the Proteſtants in the Monſieur <hi>D'Herouville</hi> his Houſe, and told them, Unleſs they would Abjure their Re<g ref="char:EOLhyphen"/>ligion, and become Catholicks, you would bring into their Houſes theſe Soldiers, <hi>who would overturn their brains,</hi> Make, Sir, make if you can, theſe actions to agree with what you boaſt of, viz. <hi>That none of the Proteſtants of your Dioceſs, have ever under<g ref="char:EOLhyphen"/>gone any Violence, either in Perſon, or in Goods, and that they all came again to you quietly.</hi>
+            </p>
+            <p>Again, can this be accounted a great Moderation in you, to have procured, <hi>That a Phyſician of the</hi> la Ferté ſous-Jouaire, called <hi>Monceau,</hi> Eighty Nine Years old, ſhould be thruſt into a Monaſtery, with ſome circumſtances full of Barbarity? That Eight or Ten Dragoons ſhould be ſent to a Wood-ſellar, called <hi>Laviron,</hi> of the ſame Town; That Thirty of them ſhould be Quartered upon Monſieur <hi>de la Sermoiſe,</hi> Gentleman of <hi>Brie;</hi> That his Wife and his Daughter ſhould be taken from him, and put into a Monaſtery, and thereby not<g ref="char:EOLhyphen"/>withſtanding Chriſt's Command, put aſunder
+<pb n="14" facs="tcp:31154:11"/> what God hath joined with the faſteſt bonds; Call (I ſay) thoſe actions as you pleaſe: But as to what you did at the ſame <hi>Claye,</hi> whereof I am witneſs, in order to pervert <hi>Iſaac Cochart,</hi> ſick to Death, Pray Sir, pardon me, and do not accuſe me of Paſſion, if I call it Fury.</p>
+            <p>This (I muſt confeſs) made too deep an im<g ref="char:EOLhyphen"/>preſſion in my Imagination, and too ſenſibly wounded my heart, not to be forced to reproach you with it in this place.</p>
+            <p>This Faithful Chriſtian, ſeeing the Churches deſolation, and the falling down of his Brethren, feared nothing ſo much as to ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k with them. He encouraged himſelf night and day, with God's Word, to Fight the good Fight: He look'd upon approaching Death, as upon a ſure Haven againſt your Perſecution. He was contented to depart this Life, provided he could carry away his undefi<g ref="char:EOLhyphen"/>led Faith committed to him, and bring it before the Tribunal of his own Judge.</p>
+            <p>You oppoſed, Sir, his pious deſign in a ſtrange manner; we ſaw you come to this Patient, accom<g ref="char:EOLhyphen"/>panied with Monſieur <hi>L'Intendant,</hi> with Monſieur le Lieutenant General of <hi>Meaux,</hi> bearing in his hand a Letter Signed by the King; the Provoſt of the <hi>Marechaux</hi> being preſent, with a band of his Ar<g ref="char:EOLhyphen"/>chers; a Cart was ready at the door for carrying away the Patient, that is, to Kill him.</p>
+            <pb n="15" facs="tcp:31154:11"/>
+            <p> O what Apoſtleſhip! Is this the equipage of an Evangelical Preacher?</p>
+            <p>You made to him a long Controverſy, full of Injuries; and ſeeing him conſtant in his Faith, cry<g ref="char:EOLhyphen"/>ed you not out, all tranſported with Anger, <hi>As ſoon as he ſhall be dead, let his Body be drawn to an Allay<g ref="char:punc">▪</g>ſtall like a dead Dog?</hi>
+            </p>
+            <p>You came again to him, you ſollicited him with Promiſes and Threatnings; you told him you were ready to take from him his dear and only Son, that is, like an Induſtrious Tem<g ref="char:EOLhyphen"/>pter, you try'd him in the moſt ſenſible part, and tore his Entrals.</p>
+            <p>Where is then, again Sir, the great kindneſs and ſweetneſs you boaſt of? this Cruel Spectacle in<g ref="char:EOLhyphen"/>deed converted me by little and little.</p>
+            <p>What (ſaid I to my ſelf), is it poſſible that a Biſhop, only to continue in the favour of the Court, ſhould attempt upon the Conſciences, which im<g ref="char:EOLhyphen"/>mediately and abſolutely depend of God alone? What Apoſtle, What Churches Father, What lawful Council, ever taught, to ſtabliſh the Faith in the Heart with violence? The primitive Church uſed a great deal of Circumſpection, before the adminiſtring of the Sacrament to thoſe that were ſuſpected of hereſy or wicked life. She try'd them a long time, that ſo one might have a moral aſſurance of their Faith and Holineſs; ſhe admit<g ref="char:EOLhyphen"/>ted
+<pb n="16" facs="tcp:31154:12"/> them not ſo much as to her meeting; ſo far was ſhe from inviting them to the holy Table: Where<g ref="char:EOLhyphen"/>as our armed Biſhop, Monſieur <hi>de Meaux,</hi> con<g ref="char:EOLhyphen"/>ſtrains thoſe whom he ought to believe, accor<g ref="char:EOLhyphen"/>ding to his principles, to be Hereticks, Schiſmaticks, and prophane Perſons, not only to come into his Church, but alſo to eat what he teaches to be the real Body and Blood of Chriſt; according to his Do<g ref="char:EOLhyphen"/>ctrine, he gives to the Dogs, what is the moſt Holy Thing upon the Earth and in Heaven: As <hi>Pilate</hi> deli<g ref="char:EOLhyphen"/>vered Jeſus Chriſt to the <hi>Jews</hi> for fear of <hi>Ceſar;</hi> in like manner, Monſieur <hi>de Meaux</hi> delivers Je<g ref="char:EOLhyphen"/>ſus Chriſt to his Enemies by an unworthy compli<g ref="char:EOLhyphen"/>ance to his Prince. When theſe Hereticks (ſaid I) have in their prophane Mouths the Saviour of the World, they ſhall inſult and mock him, boaſting as <hi>Pilate in the Goſpel, that they have power over him, and that his own Nation and his Prelates, gave them this power, by delivering him to them.</hi>
+            </p>
+            <p>O how much more (added I) are the Here<g ref="char:EOLhyphen"/>ticks Reſpectful for the Holy Signs of the Body and Blood of Jeſus Chriſt, than Monſieur <hi>de Meaux</hi> and the other like him, for what they affirm to be Jeſus Chriſt himſelf!</p>
+            <p>This indeed your behaviour, approved almoſt of all Biſhops, your Brethren, ought to terminate all our diſpute about Religion; it is a compendium of Controverſy eaſie to be underſtood of all men of any ſenſe.</p>
+            <pb n="17" facs="tcp:31154:12"/>
+            <p> I treat you, methinks, indulgently, when I ſay you do not judge your Euchariſt ſo great a Trea<g ref="char:EOLhyphen"/>ſure, as you preach it to be; and that you do not believe Jeſus Chriſt's preſence ſo really in the Sacra<g ref="char:EOLhyphen"/>ment as you declare; for you would not cauſe the holy Body and Blood of your Saviour, (I dread to ſpeak it, and even to think on't) to be ea<g ref="char:EOLhyphen"/>ten of the Dogs. Theſe, indeed, violent Conver<g ref="char:EOLhyphen"/>ſions, which are accompani'd with forced Com<g ref="char:EOLhyphen"/>munions, are to me an invincible Demonſtration of what you think upon the point of the Sacrament. Is it not better, Sir, for your Reputation, that I prove you in this Writing, you are an Hypocrite, than to convince you to be a notorious Propha<g ref="char:EOLunhyphen"/>ner of your moſt Sacred Myſteries?</p>
+            <p>Therefore admire not, if from henceforth I do believe on that point, nothing elſe than your ſelf; but it ſhall be with this great difference, that I will profeſs freely all the reſt of my Life, the Re<g ref="char:EOLhyphen"/>ligion which you keep ſecret in your Heart; where<g ref="char:EOLhyphen"/>in Fear, and Hope, World, and Fleſh, detains it in Slavery. I am in the right, Sir, to judge of your Faith, by your Actions; Saint <hi>James</hi> teaches me, that Faith is manifeſted ſo. Jeſus Chriſt himſelf lets us underſtand, that we are to diſtin<g ref="char:EOLhyphen"/>guiſh the true Prophets from the falſe ones, by their Fruits.</p>
+            <p>Pray, Sir, do not accuſe me to have made a raſh
+<pb n="18" facs="tcp:31154:13"/> judgment of your Actions; for though it may be ſolidly grounded on what I ſaid before, I may yet confirm it with what I my ſelf obſerved in your fine Summer-Houſe at <hi>Germigny.</hi> I ſaw you, Sir, there preſent at the Celebration of Maſs, in a very un<g ref="char:EOLhyphen"/>comely Habit, and in a Poſture unworthy of the Faith you profeſs; for though you were in perfect Health, and ready for your Dinner; you were ne<g ref="char:EOLhyphen"/>vertheleſs at the Maſs bare breaſted, and in a po<g ref="char:EOLhyphen"/>ſture fitter to aſſiſt at the rubbing of your Horſes heels, than at the Sacrifice you ſay is ſo dreadful, That the Angels themſelves tremble at it.</p>
+            <p>Are you then, becauſe of your Epiſcopal Cha<g ref="char:EOLhyphen"/>racter, more familiar with Jeſus Chriſt than the Angels? Have you received of him the Title of Favourite, which gives you ſuch Priviledge and Liberty?</p>
+            <p>You treated, indeed, your God in a moſt fami<g ref="char:EOLhyphen"/>liar manner; you lay all along upon a ſoft Pillow; you had ſometimes in your hand, and ſometimes upon your head a Ridiculous Cap; you were clad with a looſe Night-gown, all ungirt like <hi>Horace</hi> his <hi>Diſtinctus Nepos;</hi> and ſo you took the freſh air whilſt a little Prieſt hired of you to ſay Service, made you at leaſt a memorial of your Saviour's bloody Paſſion: You had not (to be ſure) in this po<g ref="char:EOLhyphen"/>ſture the countenance of a Chriſtian ready to dye for the defence of the Tranſubſtantiation which you
+<pb n="19" facs="tcp:31154:13"/> would perſwade others by fire and ſword to believe; But to ſay truth, as ſoon as you ſaw me in your Chappel, where you thought there were but your own Domeſticks, and moſt familiar Friends, you were ſo aſham'd to appear before me in ſuch a neglected and unbecoming poſture (which you yet judged to be worthy of the real Preſence of the Lord) that you ran quickly into your Cloſet to dreſs your ſelf; and then it was I perceived the tenderneſs of your Conſcience, by the fear you ſhew'd to have given me a Scandal.</p>
+            <p>But fear no more, Sir; I have already told you, your Scandals were uſeful to me, and I received enough of them, to be Converted by the Grace of God.</p>
+            <p>I gain'd ſomething alſo by the confuſion where<g ref="char:EOLhyphen"/>in I ſaw you, at one of the Conferences held from time to time all Summer long, in the Chappel of your Biſhoprick: There ſome body made you a ſtrong objection, about ſome controverted mat<g ref="char:EOLhyphen"/>ter, in which you were followed cloſe; to which you gave ſo poor and ſo weak an Anſwer, that you your ſelf being not contented with it, and ſen<g ref="char:EOLhyphen"/>ſible of its extreme weakneſs, you endeavoured to ſtrengthen it by ſome injuries againſt the Re<g ref="char:EOLhyphen"/>formed Miniſters, whom you call'd before all the Company, <hi>Miſcrable fellows,</hi> and <hi>Rogues.</hi> Thoſe defamations were the ſtrongeſt part of your ſolu<g ref="char:EOLhyphen"/>tion;
+<pb n="20" facs="tcp:31154:14"/> and what ſurpriſed many People the more, was, that the day before, you rebuked a Prieſt, for having called a Country man <hi>Rogue,</hi> and told him wiſely, that no Prieſt ought to have ſuch words in his Mouth.</p>
+            <p>You give, Sir, excellent precepts indeed, but your power and greatneſs exalts you above them; the Princes of the Church, like you, ought doubt<g ref="char:EOLhyphen"/>leſs to have another different Morality from the common People: And it would be a wonderful thing to ſee a Biſhop of the Roman Church, as Modeſt as a Simple Prieſt.</p>
+            <p>Whilſt I am making you my Confeſſion, I ſhall tell you ſome other things that contributed alſo not a little to my Converſion; It appears, all your Zeal for the Roman Religion, is nothing but policy, and an extraordinary ambition to pleaſe the Court, wherein your intereſts and your hopes are great. For my part, when I conſider the de<g ref="char:EOLhyphen"/>meanour of the <hi>French</hi> Biſhops, as alſo other Eccle<g ref="char:EOLhyphen"/>ſiaſtical Superiors; I cannot but look upon you all as upon Stage-Players; and upon your Religion, but as upon a meer Comedy. When the Court comman<g ref="char:EOLhyphen"/>ded you to maintain the Popes Infallibility, you ſcru<g ref="char:EOLhyphen"/>pled not to Anathematize all thoſe who oppos'd this imaginary Priviledge: When the ſame Court or<g ref="char:EOLhyphen"/>dered you to diſpoſſeſs him, you ſoon deprived him of it; and doubtleſs you are all ready to
+<pb n="21" facs="tcp:31154:14"/> reſtore it him at the firſt Order you ſhall re<g ref="char:EOLhyphen"/>ceive.</p>
+            <p>But this is no more than what is common to you, Sir, with all other Biſhops in <hi>France.</hi> I had rather to ſpeak of that which is particular, and proper to you alone. Before the Revocation of the Edict of <hi>Nants,</hi> Monſieur <hi>de Meaux,</hi> was not ſo vigorous a Preacher againſt the Reformed; but ſince the Court declared, That it would ſuffer no Religion in <hi>France</hi> but the Roman; and ſince the Perſecution againſt the Proteſtants is come to be in Faſhion, Monſieur <hi>de Meaux</hi> appears at the head of the extraordinary Preachers, and moſt Cruel Perſecutors. Whereas indeed by your Functi<g ref="char:EOLhyphen"/>on you are obliged equally at all times to promote the Edification of the People of your Dioceſs; but you leave this care to your Vicars, when God alone impoſes it upon you; and you work only in perſon, when you have the occaſion fit to get the favour of an Earthly King, by obedience to his Order, be it never ſo unjuſt. 'Tis then you think your Honour is chiefly engaged; for what would the Court ſay, if Monſieur <hi>de Meaux,</hi> who hath ſuch excellent parts to perſwade, do not pro<g ref="char:EOLhyphen"/>mote the Converſion of the Hereticks? If you do not make good progreſs in it, you are aſham'd, you become angry, as if you would oblige the Almighty, the only Maſter of the Heart, to let
+<pb n="22" facs="tcp:31154:15"/> be inſtilled therein the poiſon which you pour with ſo much ſubtilty and Charm into the Ears.</p>
+            <p>'Twas doubtleſs to blot out the ſhame in which your bad ſucceſs involues you, That in the Con<g ref="char:EOLhyphen"/>vocation of the Proteſtants that you call'd at <hi>Claye,</hi> in the time of your Miſſions, and in the preſence of Monſieur <hi>L'Intendant,</hi> you told all the Aſſembly in the midſt of your Diſcourſe, <hi>Not they alone were ob<g ref="char:EOLhyphen"/>ſtinate in their Religion, but that they were in this, like all the other Proteſtants of</hi> France; all the People who were preſent took notice of theſe words, and made uſe of them to their own purpoſe: A Perſon of Quality held me by the Arm, and whiſper'd me in the ear, <hi>Was there ever a greater extravagancy? Could he have invented an argument leſs fit to perſwade this Peo<g ref="char:EOLhyphen"/>ple? but</hi> (added he) <hi>Monſieur</hi> de Meaux <hi>is aſhamed of having ſo ſlenderly promoted the Jeſuits, and the Courts deſign, and with this Diſcourſe he endeavours to juſtifie himſelf before Monſieur</hi> L'Intendant, <hi>to the end that his report and teſtimony, may keep him in the Court from any Reproach.</hi>
+            </p>
+            <p>Seriouſly, Sir, all this your behaviour ſometimes politickly Gentle, ſometimes paſſionately Violent, ſcarce ever Sincere, and never Chriſtian, ſhook ſtrongly my Conſcience. But (I confeſs to you) (I ſerved not my ſelf ſoon enough of your Miſſi<g ref="char:EOLhyphen"/>ons and Sermons; I ought not, ſince I knew you, to have remain'd ſo much as one moment with you
+<pb n="23" facs="tcp:31154:15"/> under the pretence of any ſlight difficulties which ſtill poſſeſſed me: and the truth is, I put my ſelf in danger of loſing the grace of my Converſion, when I delayed ſo long to accept it.</p>
+            <p>It was perhaps God's will it ſhould be ſo, in order both to mine, and your Converſion. By God's Grace I led you the way in the Race, be not aſhamed to follow me.</p>
+            <p>O how abundantly, would your Converſion make amends for your Scandals! As for me, I am not ſo conſiderable in the World, that my Converſion ſhould produce any great effect there<g ref="char:EOLhyphen"/>in. Its chief, and perhaps its only fruit ſhall be for me. I was brought up unfortunately in dark<g ref="char:EOLhyphen"/>neſs, in the company of Lazy perſons; whoſe ſociety and ill manners kept me unknown. As I conſumed unfruitfully the beſt days of my Life, the reſt of them will be perhaps profitable to none. But you, Sir, who appear almoſt above all with the Splendor of your Dignity, and acuteneſs of your Wit; with your Learning, and ſo many other very rare gifts of Nature and Fortune; you may ſet forth in our days wonderful things in ſight of all the World, if you pleaſe to imploy for the Truth, all that Wit you have hitherto made uſe of to fight againſt it. Your Converſion would be Famous, by the enlarging of our Saviour's King<g ref="char:EOLhyphen"/>dom; and perhaps by the ſudden decay of the Em<g ref="char:EOLhyphen"/>pire
+<pb n="24" facs="tcp:31154:16"/> of the Antichriſt: I may aſſure you, That as your dangerous Books hold open the door of the Pit, to many Thouſand Souls, whom you keep from their Converſion: Your changing of Doctrine and Religion, opening the Eyes of abuſed Chriſtians, would introduce them to Salvation.</p>
+            <p>Conſider what power God hath truſted you with; Are you not afraid leſt he require of you a ſevere account of it at the dreadful Day; wherein being expoſed to the very Truth and Juſtice, you will not find at the feet of his Tribunal any ſuch Cowards, and Intereſſed Flatterers, as will render you praiſes, for the Poiſon your Books have pre<g ref="char:EOLhyphen"/>ſented them?</p>
+            <p>I would not be obliged to tax you of being not Sincere; I fear leſt this very Reproach ſhould increaſe in you this bad point of Honour, which makes ſo many people to periſh: But for God's ſake look with pity upon your own Soul, and do not Sacrifice it to humane and worldly reſpects; Time is ſhort, Death is not far off, Judgment approaches, Eternity is at hand; if theſe dread<g ref="char:EOLhyphen"/>ful things ought to make an impreſſion upon the minds of the youngeſt; what effect ought they not to produce in the Soul of a Prelate above ſeven<g ref="char:EOLhyphen"/>ty Years old? Caſt away then this dangerous point of Honour, it is a Serpent which you feed in your Boſom for your own ruin; ſhall this wicked Ho<g ref="char:EOLhyphen"/>nour,
+<pb n="25" facs="tcp:31154:16"/> this dangerous Reputation that you got in a bad Party, be always dearer to you than Intereſt of the Truth, than the Salvation of your Soul, than Gods glory?</p>
+            <p>Nay, to be ſure, in renouncing this worldly Ho<g ref="char:EOLhyphen"/>nour, you would find it again, and more abun<g ref="char:EOLhyphen"/>dantly in your Converſion; for thoſe that you abuſed with your Writings, coming to change in your Company, and by your example, would give you more ſolid and more true praiſes, than thoſe which you have hitherto received. The moment of your Converſion would be more glorious to you, even before men, than this long ſpace of your Life which is already paſt; this pre<g ref="char:EOLhyphen"/>cious moment would ſanctifie and crown all your excellent qualities: I pray God to inſpire you with this good deſign, and give you not only to Will, but alſo to fulfil it. I am</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Moſt Humble and moſt Obedient Servant, <hi>PETER FROTTE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="certificates">
+            <pb n="26" facs="tcp:31154:17"/>
+            <head>Certificates of the Manners, Doctrine and Converſation, of the Converted Au<g ref="char:EOLhyphen"/>thor.</head>
+            <div type="certificate">
+               <head>
+                  <hi>The firſt from</hi> HOLLAND.</head>
+               <p>SOme Months ago, Mr. <hi>Frotté,</hi> heretofore Canon Regular, and poſſeſſed of a Living in <hi>France,</hi> of one of the beſt Families in <hi>Paris,</hi> came to live amongſt us, and gave proof he had abjured Popery in <hi>Switzerland,</hi> from whence he alſo brought an excellent Teſtimony, and made good here, abundantly all the praiſes given him in thoſe Countries; having ſhew'd, as well by his Writings, as by his Converſation, very much of Wit, Learning, and Sin<g ref="char:EOLhyphen"/>cerity for the motives of his Converſion. We deſired to make him ſtay in this Countrey; but he finding not how to ſubſiſt here honourably, reſolved to go into <hi>England;</hi> and we have given him this preſent Teſtimony, that he may he known for a Perſon of no vulgar Merit.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dated at</hi> Roterdam <date>
+                        <hi>the</hi> 14th. <hi>of</hi> March 1690.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Jurieu, <hi>Miniſter, and Profeſſor in Divinity.</hi>
+                        </item>
+                        <item>Le Gendre, <hi>Miniſter.</hi>
+                        </item>
+                        <item>Phinees Pielat, <hi>Miniſter.</hi>
+                        </item>
+                        <item>Baſnage, <hi>Miniſter.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="27" facs="tcp:31154:17"/>
+               <head>
+                  <hi>Another Certificate from</hi> London.</head>
+               <p>THE Acquaintance we have had for theſe fourteen Months with Mr. <hi>Frotté,</hi> hath given us a per<g ref="char:EOLhyphen"/>fect Knowledge of him. We were very glad to expe<g ref="char:EOLhyphen"/>rience in him the Character under which the precedent Atteſtation repreſents him. He gave us ſome Proofs of his Dexterity in expounding of the Holy Scripture, and of his Knowledge in Divinity. The Gifts of Preach<g ref="char:EOLhyphen"/>ing he received of God, is not ordinary; it would have been a loſs, if he had imployed it in the Defence of errors and Idolatry. We were edifi'd alſo by his Modeſty, and good Converſation; and we hope all thoſe that ſhall know him, will be affected towards him in the ſame manner.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dated at</hi> London <hi>the Firſt Day of</hi> 
+                     <date>May 1691.</date>
+                  </dateline>
+                  <signed>J. Graverol, <hi>Miniſter.</hi>
+                  </signed>
+                  <signed>I approve this precedent Certificate, which might be made more advantageous without offend<g ref="char:EOLhyphen"/>ing the Truth. <hi>De Galinieres Peſè,</hi> Miniſter.</signed>
+                  <signed>I approve this Atteſtation above-mentioned. <hi>Brocas</hi> of the <hi>Hondes plens,</hi> Miniſter.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="28" facs="tcp:31154:18"/>
+               <head>
+                  <hi>Another Certificate from</hi> Iſpwich <hi>in</hi> Suffolk.</head>
+               <p>WE willingly give this Teſtimony to Mr. <hi>Frotté,</hi> That during the ſpace of four Months, in which he reſided in this Town, we have never found in him any other Sentiments but what are conformable to the pure Doctrine of the Goſpel of Jeſus Chriſt, and to the pre<g ref="char:EOLhyphen"/>ſent Government of this Nation; and that as to his Con<g ref="char:EOLhyphen"/>duct and Behaviour, it hath always appear'd moſt Worthy of his Profeſſion, his Piety and Charity having edified us upon all occaſions. We beſeech God to conti<g ref="char:EOLhyphen"/>nue to him always his Conſolations, and the ſtrength of his Holy Spirit in all Tryals, through which Providence ſhall be pleaſed to make him to paſs.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dated at</hi> Ipſwich <date>
+                        <hi>the</hi> 20th <hi>of</hi> September, 1691.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Fontanier, <hi>Miniſter.</hi>
+                        </item>
+                        <item>De Marraquier, <hi>Gentleman.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Sold by <hi>James Langford,</hi> Taylor, in <hi>Flower-deluce-Court</hi> in <hi>Black-Friers.</hi> 1691.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:31154:18"/>
+            <head>BOOKS Printed for <hi>Richard Baldwin.</hi>
+            </head>
+            <p>TRuth brought to light by Time; or the moſt re<g ref="char:EOLhyphen"/>markable Tranſactions of the firſt fourteen Years of King <hi>James</hi>'s Reign. <hi>The ſecond Edition, with Additions.</hi>
+            </p>
+            <p>A New, Plain, Short, and Compleat <hi>French</hi> and <hi>Engliſh</hi> Grammer: whereby the Learned may attain in few Months to Speak and Write <hi>French</hi> Correctly, as they do now in the Court of <hi>France.</hi> And wherein all that is Dark, Su<g ref="char:EOLhyphen"/>perfluous, and deficient in other <hi>Grammers,</hi> is Plain, Short and Methodically Supplied. Alſo very uſeful to ſtrangers, that are deſirons to learn the <hi>Engliſh</hi> Tongue: For whoſe ſake is addded a Short, but very Exact <hi>Engliſh Grammer. The Second Edition. By</hi> Peter Berault.</p>
+            <p>The <hi>Devout Chriſtian's</hi> Preparation for holy Dying. Conſiſting of Ejaculations, Prayers, Meditations and Hymns, adopted to the ſeveral States and Conditions of this Life. And on the four laſt things, <hi>viz. Death, Judg<g ref="char:EOLhyphen"/>ment, Heaven,</hi> and <hi>Hell.</hi>
+            </p>
+            <p>
+               <hi>Victoriae Anglicanae;</hi> being an Hiſtorical Collection of all the Memorable and Stupendious Victories obtain'd by the <hi>Engliſh</hi> againſt the <hi>French,</hi> both by Sea and Land, ſince the <hi>Norman</hi> Conqueſt. <hi>viz.</hi> The Battle, 1. Between. K. <hi>Hen<g ref="char:EOLhyphen"/>ry II.</hi> and <hi>Robert</hi> of <hi>Normandy.</hi> 2. At <hi>Morleis</hi> 3. At the Reſcue of <hi>Calice.</hi> 4. At <hi>Poicters.</hi> 5. At <hi>Creſſey.</hi> 6. At <hi>Agincourt.</hi> 7. At the mouth of the River <hi>Seine.</hi> 8. At <hi>Vernoil.</hi> 9. At <hi>Cravant.</hi> 10. At the Relief of <hi>Orleance,</hi> with the great Actions of the <hi>Lord Salisbury</hi> and <hi>Talbot.</hi>
+               <pb facs="tcp:31154:19"/> 11. Of <hi>Spurrs.</hi> Dedicated to all the Commiſſion'd Officers of the Maritime and Land Forces. <hi>Price ſtitcht</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The Memoirs of Monſieur <hi>Deagant:</hi> Containing the moſt Secret Tranſactions and Affairs of <hi>France,</hi> from the Death of <hi>Henry IV.</hi> till the beginning of the Miniſtry of the Car<g ref="char:EOLhyphen"/>dinal <hi>de Richlieu.</hi> To which is added, a particular Relati<g ref="char:EOLhyphen"/>on of the Archbiſhop of <hi>Embrun's</hi> Voyage into <hi>England,</hi> and of his Negotiation for the advancement of the Roman-Catholick Religion here; together with the Duke of <hi>Buck<g ref="char:EOLhyphen"/>ingham's</hi> Letters to the ſaid Archbiſhop about the Progreſs of that Affair: Which happen'd the laſt Years of King <hi>James I.</hi> his Reign. faithfully tranſlated out of the <hi>French</hi> Original.</p>
+            <p>A True Relation of the Cruelties and Barbarities of the <hi>French,</hi> upon the <hi>Engliſh</hi> Priſoners of War; being a Jour<g ref="char:EOLhyphen"/>nal of their Travels from <hi>Dinant</hi> in <hi>Britany,</hi> to <hi>Thoalon</hi> in <hi>Provence,</hi> and back again. With a Deſcription of the Sci<g ref="char:EOLhyphen"/>tuation and Fortifications of all the Eminent Towns upon the Road, and their Diſtance, <hi>&amp;c.</hi> Faithfully and imparti<g ref="char:EOLhyphen"/>ally Performed by <hi>Richard Strutton,</hi> being an Eye-witneſs, and a Fellow-Sufferer.</p>
+            <p>The State of <hi>Savoy:</hi> In which a full and diſtinct Ac<g ref="char:EOLhyphen"/>count is given of the Perſecution of the Proteſtants in the Valleys of <hi>Piedmont,</hi> by means of the <hi>French</hi> Councils: As alſo of the Unreaſonable Conditions and Demands that the <hi>French</hi> King would have put on the Duke of <hi>Savoy:</hi> And of the juſt Cauſes and Motives that induced that Duke to break off from the <hi>French</hi> Intereſt, and join with the <hi>Confederates:</hi> Together with the moſt memorable Oc<g ref="char:EOLhyphen"/>currences that have ſince hapned there: As alſo the true Copies of all the Letters and Diſpatches that have paſſed be<g ref="char:EOLhyphen"/>tween them.</p>
+            <pb facs="tcp:31154:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
